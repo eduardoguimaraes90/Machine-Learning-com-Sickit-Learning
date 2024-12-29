@@ -1,5 +1,5 @@
 # Machine Learning com Sickit Learning
-Projeto do Capítulo 14 do curso "Fundamentos de Linguagem Python Para Análise de Dados e Data Science" da Data Science Academy
+Projeto do Capítulo 15 do curso "Fundamentos de Linguagem Python Para Análise de Dados e Data Science" da Data Science Academy
 
 # Descrição
 Este projeto usa dados históricos para prever o salário de uma pessoa com base no número de horas dedicadas aos estudos por mês, utilizando regressão linear simples.
